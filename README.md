@@ -32,7 +32,14 @@ ShopsyHub is a fully responsive e-commerce website built using WordPress. It all
 
 ## 📸 Screenshots
 
-(Add screenshots in the screenshots folder and display them here)
+### 🏠 Homepage
+![Homepage](screenshots/Shopsyhub1.png)
+
+### 🛍️ Product Page
+![Product Page](screenshots/Shopsyhub3.png)
+
+### 🛒 Cart Page
+![Cart Page](screenshots/Shopsyhub2.png)
 
 ## 🌐 Live Website
 
